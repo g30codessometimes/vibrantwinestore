@@ -29,9 +29,9 @@ const CONFIG = {
   // See README.md "Email setup" section for the exact click-by-click
   // steps to get these three values from https://www.emailjs.com
   // ----------------------------------------------------------
-  EMAILJS_PUBLIC_KEY: "PASTE_YOUR_EMAILJS_PUBLIC_KEY_HERE",
-  EMAILJS_SERVICE_ID: "PASTE_YOUR_EMAILJS_SERVICE_ID_HERE",
-  EMAILJS_ADMIN_TEMPLATE_ID: "PASTE_YOUR_ADMIN_TEMPLATE_ID_HERE",     // sends the order to Vibrant Wines
+  EMAILJS_PUBLIC_KEY: "UyoUoe_6qHekBZmlr",
+  EMAILJS_SERVICE_ID: "service_107otl6",
+  EMAILJS_ADMIN_TEMPLATE_ID: "template_f7qxgso",     // sends the order to Vibrant Wines
 
   ADMIN_EMAIL: "info@vibrantwines.com",
 
