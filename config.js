@@ -30,7 +30,7 @@ const CONFIG = {
   // steps to get these three values from https://www.emailjs.com
   // ----------------------------------------------------------
   EMAILJS_PUBLIC_KEY: "UyoUoe_6qHekBZmlr",
-  EMAILJS_SERVICE_ID: "service_107otl6",
+  EMAILJS_SERVICE_ID: "service_733i7yj",
   EMAILJS_ADMIN_TEMPLATE_ID: "template_f7qxgso",     // sends the order to Vibrant Wines
 
   ADMIN_EMAIL: "info@vibrantwines.com",
