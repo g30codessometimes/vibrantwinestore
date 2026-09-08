@@ -16,7 +16,7 @@ const $ = (id) => document.getElementById(id);
 document.addEventListener("DOMContentLoaded", init);
 
 async function init() {
-  $("heroMoqNote").innerHTML = `MOQ for free delivery: <strong>${money(CONFIG.FREE_DELIVERY_THRESHOLD)}</strong> (Delivery fee: ${money(CONFIG.DELIVERY_FEE)} below this)`;
+  $("heroMoqNote").innerHTML = `MOQ for free delivery: <strong>${money(CONFIG.FREE_DELIVERY_THRESHOLD)}</strong> (Delivery fee: ${money(CONFIG.DELIVERY_FEE)})`;
 
   wireStaticEvents();
   renderCart();
